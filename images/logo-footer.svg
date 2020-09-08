@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="122.762" height="35.852" viewBox="0 0 122.762 35.852">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #006b93;
+        font-size: 20px;
+        font-family: Tahoma-Bold, Tahoma;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #22c4ff;
+      }
+
+      .cls-3 {
+        fill: #58cd3a;
+      }
+    </style>
+  </defs>
+  <g id="logo-footer" transform="translate(-140 -2682.148)">
+    <text id="_26andfour" data-name="26andfour" class="cls-1" transform="translate(140 2714)"><tspan x="0" y="0">26andfour</tspan></text>
+    <rect id="Rectangle_8" data-name="Rectangle 8" class="cls-2" width="5.425" height="14.795" rx="2.712" transform="matrix(0.719, 0.695, -0.695, 0.719, 257.307, 2682.148)"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-3" width="5.425" height="14.795" rx="2.712" transform="matrix(0.719, 0.695, -0.695, 0.719, 258.86, 2691.189)"/>
+  </g>
+</svg>
